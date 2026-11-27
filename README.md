@@ -4,16 +4,8 @@
 <h1 align="center"><a href="https://www.linkedin.com/in/andre-ancco-condori-811917394">Andre Favio Ancco Condori</a></h1>
 <p align="center">Desarrollo web full stack · Tecsup Arequipa · <a href="https://www.linkedin.com/in/andre-ancco-condori-811917394">LinkedIn</a></p>
 
-<table align="center">
-<tr>
-<td align="center"><a href="https://monsterhunterwiki.org/wiki/Fatalis"><img src="https://monsterhunterwiki.org/images/0/09/MHWI-Fatalis_Icon.png" width="82" alt="Fatalis"></a><br><sub>Fatalis</sub></td>
-<td align="center"><a href="https://monsterhunterwiki.org/wiki/Nergigante"><img src="https://monsterhunterwiki.org/images/thumb/d/da/MHWI-Nergigante_Icon.png/72px-MHWI-Nergigante_Icon.png.webp" width="82" alt="Nergigante"></a><br><sub>Nergigante</sub></td>
-<td align="center"><a href="https://monsterhunterwiki.org/wiki/Valstrax"><img src="https://monsterhunterwiki.org/images/9/95/MHGU-Valstrax_Icon.png" width="82" alt="Valstrax"></a><br><sub>Valstrax</sub></td>
-<td align="center"><a href="https://monsterhunterwiki.org/wiki/Magnamalo"><img src="https://monsterhunterwiki.org/images/thumb/1/1d/MHRS-Magnamalo_Icon.png/72px-MHRS-Magnamalo_Icon.png.webp" width="82" alt="Magnamalo"></a><br><sub>Magnamalo</sub></td>
-</tr>
-</table>
-
 <h2 align="center">Tecnologías y herramientas</h2>
+<p align="center"><img src="./estandartes.svg" width="100%" alt="Estandartes de Fatalis, Nergigante, Valstrax y Magnamalo colgados de una muralla"></p>
 <table align="center">
 <tr>
 <td align="center" width="33%"><strong>Lenguajes</strong><br><br><img src="https://skillicons.dev/icons?i=cs" width="35" height="35" alt="C#" title="C#"> <img src="https://skillicons.dev/icons?i=py" width="35" height="35" alt="Python" title="Python"> <img src="https://skillicons.dev/icons?i=js" width="35" height="35" alt="JavaScript" title="JavaScript"> <img src="https://skillicons.dev/icons?i=dart" width="35" height="35" alt="Dart" title="Dart"><br><sub>C# · Python · JavaScript · Dart</sub></td>
